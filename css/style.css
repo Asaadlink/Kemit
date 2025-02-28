@@ -30,6 +30,10 @@
          color: #6d5f11;
          transition: color 0.3s ease;
     }
+    & a{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none; 
+    }
   }
  #black-line{
       border-bottom: 7px solid black;
